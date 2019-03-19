@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM alpine:3.9.2
 LABEL Maintainer="Ralph Sto. Domingo <ralph.sto.domingo@primephilippines>" \
       Description="Nginx PHP PHP-FPM and Composer based on Alpine Linux. Inspired by trafex/alpine-nginx-php7."
 
